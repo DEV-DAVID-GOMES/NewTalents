@@ -1,0 +1,28 @@
+C:\Users\fftda\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.exe
+C:\Users\fftda\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.deps.json
+C:\Users\fftda\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.runtimeconfig.json
+C:\Users\fftda\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.dll
+C:\Users\fftda\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.pdb
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.AssemblyInfoInputs.cache
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.AssemblyInfo.cs
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.dll
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\refint\NewCalculadora.dll
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.pdb
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.genruntimeconfig.cache
+C:\Users\fftda\NewTalents\NewCalculadora\obj\Debug\net8.0\ref\NewCalculadora.dll
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.exe
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.deps.json
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.runtimeconfig.json
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.dll
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\bin\Debug\net8.0\NewCalculadora.pdb
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.AssemblyInfoInputs.cache
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.AssemblyInfo.cs
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.dll
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\refint\NewCalculadora.dll
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.pdb
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\NewCalculadora.genruntimeconfig.cache
+C:\Users\fftda\OneDrive\Documentos\curso dio fullstack\NewTalents\NewCalculadora\obj\Debug\net8.0\ref\NewCalculadora.dll
